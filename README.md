@@ -8,10 +8,6 @@ The Shopping List app is a Flutter application that allows users to manage their
 - **Fetch Items:** Users can fetch all items from their shopping list.
 - **Delete Items:** Users can delete items by swiping the item data tile.
 
-## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
 ## Installation
 
 ### Prerequisites
@@ -29,12 +25,12 @@ The Shopping List app is a Flutter application that allows users to manage their
    flutter pub get
    
 3. **Set up Firebase:**
-   - Go to the Firebase Console.
-   - Create a new project or select an existing project.
-   - In the Firebase Console, navigate to "Realtime Database" in the left-hand menu.
-   - Click on "Create Database" and follow the prompts to set up your database.
-   - Once the database is created, you will see your database URL in the form of https://<your-database-name>.firebaseio.com/.
-   - Copy this URL as it will be used in your Flutter app for network requests.
+- Go to the Firebase Console.
+- Create a new project or select an existing project.
+- In the Firebase Console, navigate to "Realtime Database" in the left-hand menu.
+- Click on "Create Database" and follow the prompts to set up your database.
+- Once the database is created, you will see your database URL in the form of https://<your-database-name>.firebaseio.com/.
+- Copy this URL as it will be used in your Flutter app for network requests.
 
 4. **Run the app:**
     ```bash
@@ -52,11 +48,11 @@ The Shopping List app is a Flutter application that allows users to manage their
 
 ### Contributing
 **Contributions are welcome! Please follow these steps:**
-   - Fork the repository.
-   - Create a new branch: git checkout -b feature-name.
-   - Make your changes and commit them: git commit -m 'Add some feature'.
-   - Push to the branch: git push origin feature-name.
-   - Submit a pull request.
+- Fork the repository.
+- Create a new branch: git checkout -b feature-name.
+- Make your changes and commit them: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature-name.
+- Submit a pull request.
 
 ### Contact
 For any questions or suggestions, please contact khaleesi.b914@gmail.com
